@@ -10,4 +10,8 @@
 
 ## catatan
 besifat open source, bebas diubah. tapi jangan ngaku ngaku
+<<<<<<< HEAD
 ada pertanyaan hub wa: 087800100328(Achmad)
+=======
+ada pertanyaan hub wa: 087800100328(Achmad)
+>>>>>>> d31b2785521be55124346256a5650e6144cfe581
